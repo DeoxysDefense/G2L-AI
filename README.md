@@ -1,4 +1,5 @@
 <div align="center">
+![Logo](https://github.com/DeoxysDefense/G2L-AI/blob/main/logo_image.png.png)
 </div>
 
 # About
