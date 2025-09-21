@@ -15,7 +15,7 @@ Here we introduce **G2L AI**, a Gemini-AI powered platform built for Rice studen
 
 1. Install dependencies:
    `npm install`
-2. Set Google API Key
-3. Run the app:
+2. Set Google API Key, which is already set up in this repository
+3. Run the app: 
    `npm run dev`
 "# G2L-AI" 
