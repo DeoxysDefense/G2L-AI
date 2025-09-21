@@ -1,12 +1,11 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# About
 
-This contains everything you need to run your app locally.
+Stuck with boring lectures? Drowning in a sea of PDFs? Grinding through tedious homework every night? For many students, staying motivated is harder than ever.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1jIR_9AfWjztD4noRvHZdtChKzqYCzH90
+Here we introduce **G2L AI**, a Gemini-AI powered platform built for Rice students that transforms ANY FILE into a fun and visualized learning game. We use TypeScript, CSS, HTML with Google API to develop this tool, and build a community within it, so that you can then share your games with the Rice community, where students can rate and the best ones will be recommended to you. 
 
 ## Run Locally
 
@@ -15,7 +14,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1jIR_9AfWjztD4noRvHZdtC
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+2. Set Google API Key
 3. Run the app:
    `npm run dev`
 "# G2L-AI" 
