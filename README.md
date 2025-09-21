@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="[https://user-images.githubusercontent.com/123456789/123456789-abcdefgh.png](https://github.com/DeoxysDefense/G2L-AI/blob/main/logo_image.png.png](https://github.com/DeoxysDefense/G2L-AI/blob/main/logo_image.png)" alt="Our Logo">
+  <img src="https://github.com/DeoxysDefense/G2L-AI/blob/main/logo_image.png?raw=true" alt="Our Logo">
 </div>
 
 # About
